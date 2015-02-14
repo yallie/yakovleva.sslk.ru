@@ -1,0 +1,78 @@
+title:            Ольга Яковлева
+tagline:          Ответственный редактор
+description:      Выпускаю книги по искусству (живопись, кино, музыка).
+#Comment out url when working locally to resolve base urls correctly
+url:              http://yan:4000
+
+# Owner/author information
+owner:
+  name:           Ольга Яковлева
+  avatar:         olga/IMG_1698_cropped2.jpg
+  bio:            "Ответственный редактор"
+  email:          yakovleva.eksmo@gmail.com
+  # Social networking links are used in author-bio sidebar. Update and remove as you like.
+  twitter:        
+  facebook:       
+  github:         
+  linkedin:       
+  instagram:      
+  lastfm:         
+  tumblr:         
+  # For Google Authorship https://plus.google.com/authorship
+  google_plus:       
+  soundcloud:     
+  youtube:        
+  vkontakte:      http://yakovleva.soup.io/
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-45029150-1
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:        
+edit_page_url:    https://github.com/yallie/doublebass.ru/edit/gh-pages/
+new_page_url:     https://github.com/yallie/doublebass.ru/new/gh-pages/_posts?filename=
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: О сайте
+    url: /about
+  - title: Книги
+    url: /books
+  - title: Журналы
+    url: /mags
+  - title: Блог
+    url: /articles
+  - title: Связь
+    url: /contact
+#  - title: Theme Setup
+#    url: /theme-setup
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Russia/Moscow
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+  coderay:
+    coderay_line_numbers: 
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: class
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
