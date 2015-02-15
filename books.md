@@ -11,7 +11,9 @@ image:
   creditlink: http://www.wikimedia.org/
 ---
 
-<h2>Портрет художника</h2>
+## Портрет художника
+
+Иллюстрированные биографии
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
@@ -27,19 +29,41 @@ image:
 	<a href="{{ site.url }}/articles/monet/"><img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" /></a>
 </div>
 
-<p>Все книги серии <a href="http://www.labirint.ru/series/24889/">на сайте Лабиринт</a>.</p>
+Все книги серии <a href="http://www.labirint.ru/series/24889/">на сайте Лабиринт</a>.
 
-<h2>Я — художник! Раскрась шедевр</h2>
+## Я — художник! Раскрась шедевр
 
-<p>Все книги серии <a href="http://www.labirint.ru/series/27047/">на сайте Лабиринт</a>.</p>
+Серия книг-раскрасок
 
-<h2>Рисуем по точкам</h2>
+<!-- https://github.com/ionelmc/jquery-gp-gallery -->
+<div class="pictures">
+  <a href="{{ site.url }}/articles/coloring/">
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/botticelli.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/children.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/davinci.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/degas.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/monet.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/moscow.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/petersbourgh.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/renoir.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/russian1.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/russian2.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/vangogh.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/vermeer.jpg" />
+  </a>
+</div>
 
-<p>Все книги серии <a href="http://www.labirint.ru/series/27121/">на сайте Лабиринт</a>.</p>
+Все книги серии <a href="http://fiction.eksmo.ru/filter/serie/ya-khudozhnik-raskras-shedevr-oblozhka_ID273159/">на сайте Эксмо</a>,
+<a href="http://www.ozon.ru/context/detail/id/21207369/">в магазине Озон</a>,
+<a href="http://www.labirint.ru/series/27047/">в Лабиринте</a>.
 
-<h2>Мастер сцены</h2>
+## Рисуем по точкам
 
-<p>Все книги серии <a href="http://www.labirint.ru/series/28522/">на сайте Лабиринт</a>.</p>
+Все книги серии <a href="http://www.labirint.ru/series/27121/">на сайте Лабиринт</a>.
+
+## Мастер сцены
+
+Все книги серии <a href="http://www.labirint.ru/series/28522/">на сайте Лабиринт</a>.
 
 {% include social-likes.html %}<hr>
 {% include disqus.html %}

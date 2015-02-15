@@ -19,6 +19,9 @@ image:
 
 * yakovleva.eksmo@gmail.com
 
-<!--### Send message
+<!--
 
-{% include formsmarts.html %}-->
+### Send message
+
+{% include formsmarts.html %}
+comment  -->
