@@ -4,10 +4,10 @@ permalink: /about/index.html
 title: О сайте
 tagline: Ольга Яковлева, редактор
 tags: [about, Ольга, Яковлева, ответственный, редактор]
-modified: 9-2-2015
+modified: 15-02-2015
 image:
   feature:    feature/vangogh3_about.jpg
-  credit:     Vincent Van Gogh
+  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---
 
@@ -18,16 +18,16 @@ image:
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
-	<img title="Cezann" src="{{ site.url }}/images/books-portrait/2013-Cezann.jpg" />
-	<img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" />
-	<img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" />
-	<img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" />
-	<img title="Van Gogh" src="{{ site.url }}/images/books-portrait/2013-Van Gogh.jpg" />
-	<img title="Degas" src="{{ site.url }}/images/books-portrait/2014-Degas.jpg" />
 	<a href="{{ site.url }}/articles/gaudi/"><img title="Gaudi" src="{{ site.url }}/images/books-portrait/2014-Gaudi.jpg" /></a>
-	<img title="Repin" src="{{ site.url }}/images/books-portrait/2014-Repin.jpg" />
-	<img title="Serov" src="{{ site.url }}/images/books-portrait/2014-Serov.jpg" />
-	<img title="Shishkin" src="{{ site.url }}/images/books-portrait/2014-Shishkin.jpg" />
+	<a href="{{ site.url }}/articles/repin/"><img title="Repin" src="{{ site.url }}/images/books-portrait/2014-Repin.jpg" /></a>
+	<a href="{{ site.url }}/articles/serov/"><img title="Serov" src="{{ site.url }}/images/books-portrait/2014-Serov1.jpg" /></a>
+	<a href="{{ site.url }}/articles/shishkin/"><img title="Shishkin" src="{{ site.url }}/images/books-portrait/2014-Shishkin1.jpg" /></a>
+	<a href="{{ site.url }}/articles/degas/"><img title="Degas" src="{{ site.url }}/images/books-portrait/2014-Degas.jpg" /></a>
+	<a href="{{ site.url }}/articles/vangogh/"><img title="Van Gogh" src="{{ site.url }}/images/books-portrait/2013-Van Gogh.jpg" /></a>
+	<a href="{{ site.url }}/articles/michelangelo/"><img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" /></a>
+	<a href="{{ site.url }}/articles/prerafaelites/"><img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" /></a>
+	<img title="Cezann" src="{{ site.url }}/images/books-portrait/2013-Cezann.jpg" />
+	<img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" />
 </div>
 
 {% include social-likes.html %}<hr>

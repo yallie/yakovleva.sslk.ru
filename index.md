@@ -4,6 +4,6 @@ description: "Ольга Яковлева. Ответственный редак
 tags: [Ольга, Яковлева, ответственный, редактор]
 image:
   feature:    feature/vangogh1_index.jpg
-  credit:     Vincent Van Gogh
+  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---

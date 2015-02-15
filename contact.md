@@ -7,7 +7,7 @@ tags: [contacts, связь, контакты, Ольга, Яковлева, о�
 modified: 15-02-2015
 image:
   feature:    feature/vangogh2_contact.jpg
-  credit:     Vincent Van Gogh
+  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---
 

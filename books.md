@@ -4,30 +4,27 @@ permalink: /books/index.html
 title: Книги по сериям
 tagline: Книги Ольги Яковлевой
 tags: [books, книги, Ольга, Яковлева, ответственный, редактор]
-modified: 9-2-2015
+modified: 15-02-2015
 image:
   feature:    feature/vangogh6_books.jpg
-  credit:     Vincent Van Gogh
+  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---
-
-<!-- Здесь надо все книги в виде картинок разместить.
-Каждая картинка ссылается на блог-пост с описанием. -->
 
 <h2>Портрет художника</h2>
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
+	<a href="{{ site.url }}/articles/gaudi/"><img title="Gaudi" src="{{ site.url }}/images/books-portrait/2014-Gaudi.jpg" /></a>
+	<a href="{{ site.url }}/articles/repin/"><img title="Repin" src="{{ site.url }}/images/books-portrait/2014-Repin.jpg" /></a>
+	<a href="{{ site.url }}/articles/serov/"><img title="Serov" src="{{ site.url }}/images/books-portrait/2014-Serov1.jpg" /></a>
+	<a href="{{ site.url }}/articles/shishkin/"><img title="Shishkin" src="{{ site.url }}/images/books-portrait/2014-Shishkin1.jpg" /></a>
+	<a href="{{ site.url }}/articles/degas/"><img title="Degas" src="{{ site.url }}/images/books-portrait/2014-Degas.jpg" /></a>
+	<a href="{{ site.url }}/articles/vangogh/"><img title="Van Gogh" src="{{ site.url }}/images/books-portrait/2013-Van Gogh.jpg" /></a>
+	<a href="{{ site.url }}/articles/michelangelo/"><img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" /></a>
+	<a href="{{ site.url }}/articles/prerafaelites/"><img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" /></a>
 	<img title="Cezann" src="{{ site.url }}/images/books-portrait/2013-Cezann.jpg" />
-	<img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" />
 	<img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" />
-	<img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" />
-	<img title="Van Gogh" src="{{ site.url }}/images/books-portrait/2013-Van Gogh.jpg" />
-	<img title="Degas" src="{{ site.url }}/images/books-portrait/2014-Degas.jpg" />
-	<img title="Gaudi" src="{{ site.url }}/images/books-portrait/2014-Gaudi.jpg" />
-	<img title="Repin" src="{{ site.url }}/images/books-portrait/2014-Repin.jpg" />
-	<img title="Serov" src="{{ site.url }}/images/books-portrait/2014-Serov.jpg" />
-	<img title="Shishkin" src="{{ site.url }}/images/books-portrait/2014-Shishkin.jpg" />
 </div>
 
 <p>Все книги серии <a href="http://www.labirint.ru/series/24889/">на сайте Лабиринт</a>.</p>
