@@ -11,21 +11,24 @@ image:
   creditlink: http://www.wikimedia.org/
 ---
 
-Здесь надо все журналы в виде картинок разместить.
-Каждая картинка ссылается на блог-пост с описанием.
+В 2006-2007 гг. я работала в журнале [Антикватория](http://antiquatoria.ru) сначала литературным,
+а затем выпускающим редактором. К сожалению, журнал был закрыт во время кризиса 2008 года.
+Некоторые номера журнала можно скачать с сайта [издательства Руденцовых](http://www.idomru.ru/magazin/)
+в формате PDF.
+
+В этом же издательстве я сделала свою первую книгу: [Российский Императорский флот накануне
+Первой мировой войны 1914-1918 г](http://www.idomru.ru/book/marine/). Паскаля де Романовски.
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
-	<img title="Cezann" src="{{ site.url }}/images/books-portrait/2013-Cezann.jpg" />
-	<img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" />
-	<img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" />
-	<img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" />
-	<img title="Van Gogh" src="{{ site.url }}/images/books-portrait/2013-Van Gogh.jpg" />
-	<img title="Degas" src="{{ site.url }}/images/books-portrait/2014-Degas.jpg" />
-	<img title="Gaudi" src="{{ site.url }}/images/books-portrait/2014-Gaudi.jpg" />
-	<img title="Repin" src="{{ site.url }}/images/books-portrait/2014-Repin.jpg" />
-	<img title="Serov" src="{{ site.url }}/images/books-portrait/2014-Serov.jpg" />
-	<img title="Shishkin" src="{{ site.url }}/images/books-portrait/2014-Shishkin.jpg" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_21_22.jpg" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_23.jpg" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_24.jpg" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_25_3.png" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_26.jpg" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_26_hranitel.jpg" />
+	<img title="Antiquatoria" src="{{ site.url }}/images/mags/number_26_russki.jpg" />
+	<a href="http://www.idomru.ru/book/marine/"><img title="Marine" src="{{ site.url }}/images/books-others/2008-marine_large.jpg" /></a>
 </div>
 
 {% include social-likes.html %}<hr>

@@ -22,6 +22,8 @@ image:
 	<a href="{{ site.url }}/articles/michelangelo/"><img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" /></a>
 	<a href="{{ site.url }}/articles/prerafaelites/"><img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" /></a>
 	<a href="{{ site.url }}/articles/monet/"><img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" /></a>
+	<a href="{{ site.url }}/articles/aroseva/"><img title="Aroseva" src="{{ site.url }}/images/books-others/2014-Aroseva.jpg" /></a>
+	<a href="{{ site.url }}/articles/guitar/"><img title="Guitar" src="{{ site.url }}/images/books-others/2014-Capone1.jpg" /></a>
 </div>
 
 {% include social-likes.html %}<hr>

@@ -45,11 +45,11 @@ image:
 	<img title="Coloring" src="{{ site.url }}/images/books-coloring/monet.jpg" />
 	<img title="Coloring" src="{{ site.url }}/images/books-coloring/moscow.jpg" />
 	<img title="Coloring" src="{{ site.url }}/images/books-coloring/petersbourgh.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/vangogh.jpg" />
 	<img title="Coloring" src="{{ site.url }}/images/books-coloring/renoir.jpg" />
+	<img title="Coloring" src="{{ site.url }}/images/books-coloring/vermeer.jpg" />
 	<img title="Coloring" src="{{ site.url }}/images/books-coloring/russian1.jpg" />
 	<img title="Coloring" src="{{ site.url }}/images/books-coloring/russian2.jpg" />
-	<img title="Coloring" src="{{ site.url }}/images/books-coloring/vangogh.jpg" />
-	<img title="Coloring" src="{{ site.url }}/images/books-coloring/vermeer.jpg" />
   </a>
 </div>
 
@@ -64,6 +64,14 @@ image:
 ## Мастер сцены
 
 Все книги серии <a href="http://www.labirint.ru/series/28522/">на сайте Лабиринт</a>.
+
+## Книги других серий
+
+<!-- https://github.com/ionelmc/jquery-gp-gallery -->
+<div class="pictures">
+	<a href="{{ site.url }}/articles/aroseva/"><img title="Aroseva" src="{{ site.url }}/images/books-others/2014-Aroseva.jpg" /></a>
+	<a href="{{ site.url }}/articles/guitar/"><img title="Guitar" src="{{ site.url }}/images/books-others/2014-Capone1.jpg" /></a>
+</div>
 
 {% include social-likes.html %}<hr>
 {% include disqus.html %}
