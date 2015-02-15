@@ -71,6 +71,7 @@ image:
 <div class="pictures">
 	<a href="{{ site.url }}/articles/aroseva/"><img title="Aroseva" src="{{ site.url }}/images/books-others/2014-Aroseva.jpg" /></a>
 	<a href="{{ site.url }}/articles/guitar/"><img title="Guitar" src="{{ site.url }}/images/books-others/2014-Capone1.jpg" /></a>
+	<a href="{{ site.url }}/articles/marine/"><img title="Marine" src="{{ site.url }}/images/books-others/2008-marine_large.jpg" /></a>
 </div>
 
 {% include social-likes.html %}<hr>
