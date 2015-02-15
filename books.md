@@ -23,8 +23,8 @@ image:
 	<a href="{{ site.url }}/articles/vangogh/"><img title="Van Gogh" src="{{ site.url }}/images/books-portrait/2013-Van Gogh.jpg" /></a>
 	<a href="{{ site.url }}/articles/michelangelo/"><img title="Michelangelo" src="{{ site.url }}/images/books-portrait/2013-Michelangelo.jpg" /></a>
 	<a href="{{ site.url }}/articles/prerafaelites/"><img title="Prerafaelites" src="{{ site.url }}/images/books-portrait/2013-Prerafaelites.jpg" /></a>
-	<img title="Cezann" src="{{ site.url }}/images/books-portrait/2013-Cezann.jpg" />
-	<img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" />
+	<a href="{{ site.url }}/articles/cezanne/"><img title="Cezanne" src="{{ site.url }}/images/books-portrait/2013-Cezanne.jpg" /></a>
+	<a href="{{ site.url }}/articles/monet/"><img title="Monet" src="{{ site.url }}/images/books-portrait/2013-Monet.jpg" /></a>
 </div>
 
 <p>Все книги серии <a href="http://www.labirint.ru/series/24889/">на сайте Лабиринт</a>.</p>

@@ -4,7 +4,7 @@ title: "Микеланджело. Жизнь и творчество в 500 ка
 tagline: "Н. Павлова, Р. Ормистон"
 description: "Н. Павлова, Р. Ормистон"
 category: articles
-tags: [books, michelangelo]
+tags: [books, Michelangelo, Michelangelo Buonarotti, Микеланджело, Микеланджело Буонаротти, Павлова, Ормистон, Pavlova, Ormiston]
 image:
   feature: feature/michelangelo1.jpg
   credit: Микеланджело
