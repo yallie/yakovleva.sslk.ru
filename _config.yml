@@ -2,7 +2,8 @@ title:            Ольга Яковлева
 tagline:          Ответственный редактор
 description:      Выпускаю книги по искусству (живопись, кино, музыка).
 #Comment out url when working locally to resolve base urls correctly
-url:              http://yakovleva.sslk.ru
+#url:              http://yakovleva.sslk.ru
+url:              http://yan:4000
 
 # Owner/author information
 owner:
