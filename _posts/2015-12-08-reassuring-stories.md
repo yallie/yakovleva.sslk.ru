@@ -68,4 +68,4 @@ image:
 * Александр Снегирев	
 * Александр Староверов
 
-[Книга в каталоге ЭКСМО](http://fiction.eksmo.ru/catalogue/fiction/sovremennaya-proza/kak-ya-izmenil-svoyu-zhizn-k-luchshemu-9-1_ID1410712/)
+[Листать книгу в каталоге ЭКСМО](http://fiction.eksmo.ru/catalogue/fiction/sovremennaya-proza/kak-ya-izmenil-svoyu-zhizn-k-luchshemu-9-1_ID1410712/)
