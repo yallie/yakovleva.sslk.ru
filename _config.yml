@@ -3,7 +3,7 @@ tagline:          Ответственный редактор
 description:      Выпускаю книги по искусству (живопись, кино, музыка).
 #Comment out url when working locally to resolve base urls correctly
 url:              http://yakovleva.sslk.ru
-#url:              http://yan:4000
+#url:              http://localhost:4000
 
 # Owner/author information
 owner:
@@ -13,7 +13,7 @@ owner:
   email:          yakovleva.eksmo@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
-  facebook:       
+  facebook:       https://www.facebook.com/profile.php?id=60000011900079
   github:         
   linkedin:       
   instagram:      
@@ -55,7 +55,7 @@ links:
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Russia/Moscow
 future:      true
-pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
