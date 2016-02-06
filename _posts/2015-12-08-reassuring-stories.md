@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Жизнеутверждающие истории"
+title: "Серия «Перемены к лучшему»"
 tagline:
 description: "Сборник рассказов популярных авторов"
 category: articles
@@ -30,7 +30,6 @@ image:
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
 	<img title="Жизнеутверждающие истории" src="{{ site.url }}/images/books-others/2015-Reassuring1.jpg" />
-	<img title="Жизнеутверждающие истории" src="{{ site.url }}/images/books-others/2015-Reassuring3.jpg" />
 	<img title="Жизнеутверждающие истории" src="{{ site.url }}/images/books-others/2015-Reassuring2.jpg" />
 </div>
 

@@ -7,7 +7,8 @@ tags: [magazines, mags, журналы, Ольга, Яковлева, ответ
 modified: 09-02-2015
 image:
   feature:    feature/vangogh5_mags.jpg
-  credit:     Винсент Ван Гог
+#  feature:    feature/vangogh1_index.jpg
+#  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---
 

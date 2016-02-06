@@ -27,7 +27,6 @@ image:
 <div class="pictures">
 	<img title="Где ночуют боги" src="{{ site.url }}/images/books-others/2015-GodsSleep.jpg" />
 	<img title="Где ночуют боги" src="{{ site.url }}/images/books-others/2015-GodsSleep1.jpg" />
-	<img title="Где ночуют боги" src="{{ site.url }}/images/books-others/2015-GodsSleep2.jpg" />
 	<img title="Где ночуют боги" src="{{ site.url }}/images/books-others/2015-GodsSleep3.jpg" />
 </div>
 
