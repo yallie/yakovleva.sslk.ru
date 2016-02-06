@@ -3,7 +3,7 @@ layout: home
 description: "Ольга Яковлева. Ответственный редактор."
 tags: [Ольга, Яковлева, ответственный, редактор]
 image:
-  feature:    feature/vangogh16.jpg
+  feature:    feature/bosch1.jpg
 #  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---
