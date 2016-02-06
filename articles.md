@@ -5,10 +5,10 @@ title: Блог
 tagline: A List of Posts
 tags: [blog, блог, Ольга, Яковлева, ответственный, редактор]
 image:
-  feature:    feature/briegel1.jpg
 #  feature:    feature/vangogh16.jpg
 #  feature:    feature/vangogh4_blog.jpg
 #  credit:     Винсент Ван Гог
+  feature:    feature/bruegel1.jpg
   credit:     Питер Брейгель
   creditlink: http://www.wikimedia.org/
 ---

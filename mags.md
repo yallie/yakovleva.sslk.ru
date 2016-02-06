@@ -6,9 +6,11 @@ tagline: Журналы Ольги Яковлевой
 tags: [magazines, mags, журналы, Ольга, Яковлева, ответственный, редактор]
 modified: 09-02-2015
 image:
-  feature:    feature/vangogh5_mags.jpg
+#  feature:    feature/vangogh5_mags.jpg
 #  feature:    feature/vangogh1_index.jpg
-  credit:     Винсент Ван Гог
+#  credit:     Винсент Ван Гог
+  feature:	  feature/bosch4.jpg
+  credit:     Иероним Босх
   creditlink: http://www.wikimedia.org/
 ---
 

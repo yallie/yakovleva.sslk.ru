@@ -6,10 +6,10 @@ tagline: Ольга Яковлева, ответственный редакто�
 tags: [contacts, связь, контакты, Ольга, Яковлева, ответственный, редактор]
 modified: 15-02-2015
 image:
-  feature:	  feature/briegel2.jpg
-  credit:     Питер Брейгель
 #  feature:    feature/vangogh2_contact.jpg
 #  credit:     Винсент Ван Гог
+  feature:    feature/bruegel3.jpg
+  credit:     Питер Брейгель
   creditlink: http://www.wikimedia.org/
 ---
 

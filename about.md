@@ -7,9 +7,10 @@ description:
 tags: [about, Ольга, Яковлева, ответственный, редактор]
 modified: 15-02-2015
 image:
-  feature:	feature/bosch2.jpg
-#  feature:    feature/vangogh3_about.jpg
+  feature:	  feature/bosch2.jpg
   credit:     Иероним Босх
+#  feature:    feature/vangogh3_about.jpg
+#  credit:     Винсент Ван Гог
   creditlink: http://www.wikimedia.org/
 ---
 

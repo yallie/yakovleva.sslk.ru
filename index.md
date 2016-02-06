@@ -3,8 +3,10 @@ layout: home
 description: "Ольга Яковлева. Ответственный редактор."
 tags: [Ольга, Яковлева, ответственный, редактор]
 image:
-  feature:    feature/bosch1.jpg
-#  credit:     Иероним Босх
+  feature:	  feature/bosch1.jpg
+  credit:     Иероним Босх
+#  feature:    feature/bruegel3.jpg
+#  credit:     Питер Брейгель
   creditlink: http://www.wikimedia.org/
 ---
 

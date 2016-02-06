@@ -8,8 +8,8 @@ modified: 15-02-2015
 image:
 #  feature:    feature/vangogh6_books.jpg
 #  credit:     Винсент Ван Гог
-  feature:    feature/briegel3.jpg
-  credit:     Питер Брейгель
+  feature:    feature/bosch3.jpg
+  credit:     Иероним Босх
   creditlink: http://www.wikimedia.org/
 ---
 
