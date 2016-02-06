@@ -7,16 +7,17 @@ description:
 tags: [about, Ольга, Яковлева, ответственный, редактор]
 modified: 15-02-2015
 image:
-  feature:    feature/vangogh3_about.jpg
-  credit:     Винсент Ван Гог
+  feature:	feature/bosch2.jpg
+#  feature:    feature/vangogh3_about.jpg
+  credit:     Иероним Босх
   creditlink: http://www.wikimedia.org/
 ---
 
 Этот сайт-портфолио посвящен книгам, которые я выпускаю. Моя основная 
 специализация — [подарочные издания по искусству]({{ site.url }}/books) (живопись, 
-кино, музыка). Кроме книг, у меня большой опыт выпуска качественной канцелярии
-и [периодических изданий]({{ site.url }}/mags). Предложения о работе можно 
-направлять по адресу yakovleva.eksmo@gmail.com
+кино, музыка) и современная художественная проза. Кроме книг, у меня большой опыт 
+выпуска качественной канцелярии и [периодических изданий]({{ site.url }}/mags).
+Предложения о работе можно направлять по адресу yakovleva.eksmo@gmail.com
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">

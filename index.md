@@ -4,7 +4,7 @@ description: "Ольга Яковлева. Ответственный редак
 tags: [Ольга, Яковлева, ответственный, редактор]
 image:
   feature:    feature/bosch1.jpg
-#  credit:     Винсент Ван Гог
+#  credit:     Иероним Босх
   creditlink: http://www.wikimedia.org/
 ---
 

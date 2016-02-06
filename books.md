@@ -6,8 +6,10 @@ tagline: Книги Ольги Яковлевой
 tags: [books, книги, Ольга, Яковлева, ответственный, редактор]
 modified: 15-02-2015
 image:
-  feature:    feature/vangogh6_books.jpg
-  credit:     Винсент Ван Гог
+#  feature:    feature/vangogh6_books.jpg
+#  credit:     Винсент Ван Гог
+  feature:    feature/briegel3.jpg
+  credit:     Питер Брейгель
   creditlink: http://www.wikimedia.org/
 ---
 
