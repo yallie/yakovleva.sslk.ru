@@ -11,7 +11,7 @@ image:
   credit:     Иероним Босх
 #  feature:    feature/vangogh3_about.jpg
 #  credit:     Винсент Ван Гог
-  creditlink: http://www.wikimedia.org/
+  creditlink: https://commons.wikimedia.org/wiki/The_Garden_of_Earthly_Delights
 ---
 
 Этот сайт-портфолио посвящен книгам, которые я выпускаю. Моя основная 

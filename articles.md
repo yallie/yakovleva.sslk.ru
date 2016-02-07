@@ -10,5 +10,5 @@ image:
 #  credit:     Винсент Ван Гог
   feature:    feature/bruegel1.jpg
   credit:     Питер Брейгель
-  creditlink: http://www.wikimedia.org/
+  creditlink: https://en.wikipedia.org/wiki/The_Fight_Between_Carnival_and_Lent
 ---

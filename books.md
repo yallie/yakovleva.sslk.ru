@@ -10,7 +10,7 @@ image:
 #  credit:     Винсент Ван Гог
   feature:    feature/bosch3.jpg
   credit:     Иероним Босх
-  creditlink: http://www.wikimedia.org/
+  creditlink: https://commons.wikimedia.org/wiki/The_Garden_of_Earthly_Delights
 ---
 
 ## Портрет художника

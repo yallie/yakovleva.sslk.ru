@@ -7,7 +7,7 @@ image:
   credit:     Иероним Босх
 #  feature:    feature/bruegel3.jpg
 #  credit:     Питер Брейгель
-  creditlink: http://www.wikimedia.org/
+  creditlink: https://commons.wikimedia.org/wiki/The_Garden_of_Earthly_Delights
 ---
 
 Портфолио: [подарочные издания по искусству]({{ site.url }}/books)

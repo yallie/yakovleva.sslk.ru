@@ -8,9 +8,9 @@ modified: 15-02-2015
 image:
 #  feature:    feature/vangogh2_contact.jpg
 #  credit:     Винсент Ван Гог
-  feature:    feature/bruegel3.jpg
+  feature:    feature/bruegel3a.jpg
   credit:     Питер Брейгель
-  creditlink: http://www.wikimedia.org/
+  creditlink: https://en.wikipedia.org/wiki/File:Pieter_Bruegel_d._%C3%84._093.jpg
 ---
 
 ### Телефоны

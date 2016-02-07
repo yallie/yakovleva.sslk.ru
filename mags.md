@@ -11,7 +11,7 @@ image:
 #  credit:     Винсент Ван Гог
   feature:	  feature/bosch4.jpg
   credit:     Иероним Босх
-  creditlink: http://www.wikimedia.org/
+  creditlink: https://commons.wikimedia.org/wiki/The_Garden_of_Earthly_Delights
 ---
 
 В 2006-2007 гг. я работала в журнале [Антикватория](http://antiquatoria.ru) сначала литературным,
