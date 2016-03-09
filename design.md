@@ -73,6 +73,7 @@ image:
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0008.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0014.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0019.jpg"/>
+    <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160309-WA0001.jpg"/>
 </div>
 
 ## Санузел
@@ -107,6 +108,7 @@ image:
     <img title="Кухня" src="{{ site.url }}/images/design/new-bathroom/IMG-20160308-WA0010.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-bathroom/IMG-20160308-WA0011.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-bathroom/IMG-20160308-WA0012.jpg"/>
+    <img title="Кухня" src="{{ site.url }}/images/design/new-bathroom/IMG-20160309-WA0002.jpg"/>
 </div>
 
 ## Прихожая
