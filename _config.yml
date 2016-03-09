@@ -44,10 +44,10 @@ links:
     url: /mags
   - title: Блог
     url: /articles
-  - title: Связь
-    url: /contact
   - title: Дизайн
     url: /design
+  - title: Связь
+    url: /contact
 #  - title: Theme Setup
 #    url: /theme-setup
 #  - title: Made Mistakes
