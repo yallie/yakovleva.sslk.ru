@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /design.html
+permalink: /design/index.html
 title: Дизайн интерьера квартиры
 tagline: Дизайн интерьера квартиры
 tags: [дизайн, design, интерьер, interior, Ольга, Яковлева]
@@ -8,7 +8,7 @@ modified: 08-03-2016
 image:
   feature:    design/P60308-174925-cropped.jpg 
   credit:     Алексей
-  creditlink: https://yakovleva.sslk.ru/design.html
+  creditlink: https://yakovleva.sslk.ru/design/index.html
 ---
 
 <section id="table-of-contents" class="toc">
