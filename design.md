@@ -38,24 +38,30 @@ image:
 ## Кухня
 
 Кухня до перепланировки имела площадь 6 квадратных метров. Выход в сторону
-прихожей. В стене, общей с ванной комнатой, имеется окно, наглухо забитое фанерой.
-Стены на половину высоты покрыты кафельной плиткой. Свободное пространство — 
+прихожей. В стене, общей с ванной комнатой, было окно, наглухо забитое фанерой,
+стены на половину высоты покрыты кафельной плиткой. Свободное пространство — 
 небольшой пятачок в центре кухни.
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
-    <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140411_14_12_35_Pro.jpg"/>
+	<img title="Прихожая" src="{{ site.url }}/images/design/hall/WP_20140602_10_35_20_Pro.jpg" />
     <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140411_14_13_01_Pro.jpg"/>
+    <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140411_14_12_35_Pro.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140602_10_24_39_Pro.jpg"/>
-    <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140602_10_24_45_Pro.jpg"/>
+    <!--img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140602_10_24_45_Pro.jpg"/-->
     <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140602_10_25_15_Pro.jpg"/>
     <!--img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140710_22_27_28_Pro.jpg"/-->
     <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140712_18_47_41_Pro.jpg"/>
+    <img title="Кухня" src="{{ site.url }}/images/design/kitchen/WP_20140910_08_52_37_Pro.jpg"/>
 </div>
 
-После перепланировки (стена передвинута на 400 мм) площадь кухни стала 7 квадратных
-метров. Для экономии места бытовая техника была размещена под столешницей: стиральная 
-машина и холодильник. Столешница поднята на высоту 1000 мм, чтобы не нагибаться 
+После перепланировки площадь кухни стала 7 квадратных метров. Вход на кухню 
+со стороны коридора заложен, стена гостиной передвинута на 400 мм, и в ней 
+сделан новый вход. В нишу на месте бывшего входа в кухню установлен встроенный 
+зеркальный шкаф для одежды.
+
+Для экономии места бытовая техника размещена под столешницей: стиральная машина 
+и маленький холодильник. Столешница поднята на высоту 1000 мм, чтобы не нагибаться 
 при мытье посуды, при этом места оказывается как раз достаточно для установки 
 техники. Вместо газовой плиты установлена варочная панель, под ней — шкаф 
 для посуды. Установлен подоконник шириной 670 мм, который можно использовать как 
@@ -63,9 +69,9 @@ image:
 
 <!-- https://github.com/ionelmc/jquery-gp-gallery -->
 <div class="pictures">
+    <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0009.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0006.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0008.jpg"/>
-    <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0009.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0014.jpg"/>
     <img title="Кухня" src="{{ site.url }}/images/design/new-kitchen/IMG-20160308-WA0019.jpg"/>
 </div>
