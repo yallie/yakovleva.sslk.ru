@@ -6,7 +6,7 @@ tagline: Дизайн интерьера квартиры
 tags: [дизайн, design, интерьер, interior, Ольга, Яковлева]
 modified: 08-03-2016
 image:
-  feature:    design/P60308-174925-cropped.jpg 
+  feature:    design/P60314-165244-cropped.jpg 
   credit:     Алексей
   creditlink: https://yakovleva.sslk.ru/design/index.html
 ---
