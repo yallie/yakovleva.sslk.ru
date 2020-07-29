@@ -33,7 +33,7 @@ image:
 	</a>
 	<a href="http://antiquatoria.ru/archive/n26/n25_hranitel.html"><img title="Antiquatoria" src="{{ site.url }}/images/mags/number_26_hranitel.jpg" /></a>
 	<a href="http://antiquatoria.ru/archive/n26/n26_russian.html"><img title="Antiquatoria" src="{{ site.url }}/images/mags/number_26_russki.jpg" /></a>
-	<a href="{{ site.url }}/articles/marine/"><img title="Marine" src="{{ site.url }}/images/books-others/2008-marine_large.jpg" /></a>
+	<a href="{{ site.url }}/articles/marine"><img title="Marine" src="{{ site.url }}/images/books-others/2008-marine_large.jpg" /></a>
 </div>
 
 {% include social-likes.html %}<hr>
