@@ -18,6 +18,13 @@
 <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
 <meta property="og:url" content="{{ site.url }}{{ page.url }}">
 <meta property="og:site_name" content="{{ site.title }}">
+{% if page.image.oglink %}
+  <meta property="og:image" content="{{ site.url }}/images/{{ page.image.oglink }}">
+  <link rel="og:image" content="{{ site.url }}/images/{{ page.image.oglink }}">
+{% else %}
+  <meta property="og:image" content="{{ site.url }}/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}{{ site.owner.avatar }}{% endif %}">
+  <link rel="og:image" content="{{ site.url }}/images/{% if page.image.feature %}{{ page.image.feature }}{% else %}{{ site.owner.avatar }}{% endif %}">
+{% endif %}
 
 {% if site.google_verify %}<!-- Webmaster Tools verfication -->
 <meta name="google-site-verification" content="{{ site.google_verify }}">{% endif %}
@@ -34,7 +41,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <!-- Google Webfonts -->
-<link href='http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700|PT+Serif:400,700,400italic&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ site.url }}/assets/css/main.min.css">
 <!-- More icons plus some my own rules -->
