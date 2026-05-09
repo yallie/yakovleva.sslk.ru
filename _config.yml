@@ -44,8 +44,8 @@ links:
     url: /mags
   - title: Блог
     url: /articles
-  - title: Дизайн
-    url: /design
+#  - title: Дизайн
+#    url: /design
   - title: Связь
     url: /contact
 #  - title: Theme Setup
